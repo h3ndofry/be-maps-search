@@ -3,7 +3,12 @@
 **DEVELOPER NOTES:**
 
 * I have removed the API key included in this README for security reasons (and I'm uncertain whether it's a key provided for free access by TomTom or one used by Montu developers) as this is being posted on a public Git repository.
+  * Please create an `.env` from the `.env.example` file containing the given API key.
 * A `.gitignore` file has been included containing [sensible defaults](https://github.com/github/gitignore/blob/main/Node.gitignore).
+
+### What would I do if I had more time?
+
+I'd rewrite this to use the offical TomTom Web SDK. This would be the best option as it also includes type definitions and checking. It's a bit overkill for what's being asked for in this challenge, though.
 
 ---
 
