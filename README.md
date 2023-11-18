@@ -2,7 +2,7 @@
 
 **DEVELOPER NOTES:**
 
-* I have removed the API key included in this README for security reasons (and I'm uncertain whether it's a public key provided for free access by TomTom or one used by Montu developers) as this is being posted on a public Git repository.
+* I have removed the API key included in this README for security reasons (and I'm uncertain whether it's a key provided for free access by TomTom or one used by Montu developers) as this is being posted on a public Git repository.
 * A `.gitignore` file has been included containing [sensible defaults](https://github.com/github/gitignore/blob/main/Node.gitignore).
 
 ---
@@ -25,8 +25,8 @@ To take a partial address input and return full address suggestions along with t
 Resources:
 ==========
 
-Place Search Documentation: https://developer.tomtom.com/search-api/documentation/search-service/search-service\
-API Key: [Redacted for security]
+* Place Search Documentation: https://developer.tomtom.com/search-api/documentation/search-service/search-service
+* API Key: [Redacted for security]
 
 Install:
 ========
